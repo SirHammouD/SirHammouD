@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ali Hammoud, a Computer Engineer, a passionate Android Developer, & a freelance Software Engineer. My goal is to find new innovative solutions in new creative ways.
+I'm Ali Hammoud, a Computer Engineer, a passionate Android Developer, & a freelance Software Engineer. My goal is to find innovative solutions in creative ways.
 
 - 🔭 I’m currently working on a Crypto Marketplace application using Polygon Technology on the Ethereum Blockchain.
 - 🌱 I’m currently learning Kotlin & Jetpack.
