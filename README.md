@@ -2,8 +2,8 @@
 
 I'm Ali Hammoud, a Computer Engineer, a passionate Android Developer, & a freelance Software Engineer. My goal is to find innovative solutions in creative ways.
 
-- 🔭 I’m currently working on a Crypto Marketplace application using Polygon Technology on the Ethereum Blockchain.
-- 🌱 I’m currently learning Kotlin & Jetpack.
+- 🔭 I’m currently working on an AI assistant library, that can be ported into any Android project. It provides an easy UI with a ready-to-use backend, utilizing OpenAI GPT and Auto-GPT.
+- 🌱 I’m currently learning Jetpack Compose, Flutter, and Kotlin Multiplatform.
 - 👯 I’m looking to collaborate on more Android projects.
 - 🤔 I’m looking for help with IOS development.
 - 💬 Ask me about anything!
